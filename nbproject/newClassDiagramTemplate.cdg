@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="newClassDiagramTemplate">
+  <ClassDiagramComponents>
+    <Class name="Empleado" package="" visibility="public" xPosition="323.0" yPosition="311.0">
+      <Fields/>
+      <Constructors/>
+      <Methods/>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>

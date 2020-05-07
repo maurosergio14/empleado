@@ -1,0 +1,32 @@
+        --- Enunciado ---
+
+    Se quiere unaaplicacion que permita manejar la informacion de un empleado.
+
+ Del empleado se manejo la siguiente información :
+
+    - Nombre
+    - Apellido
+    - Género(femenino ó masculino)
+    - Fecha de nacimiento
+    - Foto
+    - Fecha de ingreso a la empresa
+    - Salario básico
+
+La alicacion permite visualizar la informacion del empleado, y hacer los siguientes calculos
+
+    - Edad del empleado,utiliazando la fecha de nacimiento del empleado
+    - Antiguedad del empleado, utilizando la fecha de nacimiento del empleado
+    - Prestaciones a las que tiene derecho el empleado.Para este cálculo se debe 
+      usar la siguiente fórmula:
+        
+                prestaciones= (antiguedad*salario)/12
+
+    El programa debe permitir:
+
+    1.Visualizar la informacion del empleado.
+    2.Modificar el salario del empleado
+    3.Calcular la antiguedad del empleado en la empresa
+    4.Calcular las prestaciones del empleado
+    5.Calcular la edad del empleado
+    6.Cambiar el empleado
+    

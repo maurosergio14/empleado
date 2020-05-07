@@ -1,5 +1,3 @@
-/*
- */
 package empleado;
 
 import java.util.Calendar;
@@ -13,7 +11,7 @@ public class Empleado {
 
     //Atributos
     private String nombre, apellido, imagen;
-    private int genero;
+    private int genero; 
     private Fecha fechaNacimiento;
     private Fecha fechaIngreso;
     private double salario;
